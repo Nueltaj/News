@@ -1,0 +1,140 @@
+body {
+    font-size: 15pt;
+    background-color: lightblue;
+    font-family: 'Playfair Display', serif;
+    
+
+
+}
+h3{
+       font-family: 'Times New Roman', Times, serif;
+}
+nav{ 
+        text-transform: uppercase ;
+        font-size: 3em;
+        font-style: bold;
+        font-family: 'Young Serif', serif;
+
+        
+        
+}
+nav >ul{
+        list-style-type: none;
+        text-align: center;
+        padding: 0px;
+        margin: 0px;
+        border: 5px solid darkred;
+        background-color: darkblue;
+}
+nav li{
+        display :inline;
+        padding: 6px;
+        
+}
+nav a{
+        text-decoration: none;
+        justify-content: center;
+        color: white;
+}
+a:hover{
+        color: darkred;
+        background: grey;
+}
+.divhead{
+        display: float;
+        border: 5px solid saddlebrown;
+        margin-top: 10px;
+        margin-left:15%;
+        margin-right:15%;
+        background-image: url(/news.jpg)
+        
+}
+.heading{
+        font-family: 'EB Garamond', serif;
+        font-style: bold;
+        text-align: center;
+        color: white ;
+        text-shadow: 1px 1px 1px black;
+        font-size: 2.5em;
+        
+
+}
+.subheading{
+        font-family: 'Bitter', serif;
+        text-align: center;
+        color: ghostwhite;
+        font-style: italic;
+        font-size: 1.5em;
+        text-shadow:1px 1px 1px black;
+}
+.signupbox{
+        display: float;
+        background-color: red;
+        border: 2px solid brown ;
+        margin-left:40%;
+        margin-right:40%;
+}
+h2.subheading a{
+        text-decoration: none;
+        color: white;
+}
+.headlines{
+        text-align: left;
+        font-style: bold;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-indent: 2px 2px 2px dimgray;
+        text-transform: uppercase;
+        
+}
+.headline{
+        display:float;
+        background-color: dimgray;
+        border:5px solid black;
+        margin-left: 10%;
+        margin-right: 10%;
+        color: white;
+        font-size: 1.4rem;
+        font-family: bold ;
+}
+.headline >img{
+        width:100%;
+        height: 50%;
+        border-radius: 7%;
+        
+}
+.more{
+        
+        text-transform: uppercase ;
+        color: red;
+        text-shadow: 2px 2px 2px black ;
+        margin-left: 5%;
+        font-style: bolder;
+        font-family: serif;
+        font-size: 30px;
+        
+}
+.link{
+        text-transform: uppercase ;
+       text-shadow: 2px 5px 2px red;
+       font-style: italic;
+        font-family: 'Rokkitt', serif;
+       color: white;
+      
+       
+}
+.question{
+        font-family: 'EB Garamond', serif;
+        color: black ;
+        font-size: 20pt;
+       
+        
+}
+.que{
+        font-family: 'EB Garamond', serif;
+        font-size: 18pt;
+        color: red;
+       
+        
+        
+}
+        
